@@ -1,0 +1,8 @@
+/Users/taniguchi/blazorhosted/Shared/bin/Debug/netstandard2.0/blazorhosted.Shared.deps.json
+/Users/taniguchi/blazorhosted/Shared/bin/Debug/netstandard2.0/blazorhosted.Shared.dll
+/Users/taniguchi/blazorhosted/Shared/bin/Debug/netstandard2.0/blazorhosted.Shared.pdb
+/Users/taniguchi/blazorhosted/Shared/obj/Debug/netstandard2.0/blazorhosted.Shared.csprojAssemblyReference.cache
+/Users/taniguchi/blazorhosted/Shared/obj/Debug/netstandard2.0/blazorhosted.Shared.AssemblyInfoInputs.cache
+/Users/taniguchi/blazorhosted/Shared/obj/Debug/netstandard2.0/blazorhosted.Shared.AssemblyInfo.cs
+/Users/taniguchi/blazorhosted/Shared/obj/Debug/netstandard2.0/blazorhosted.Shared.dll
+/Users/taniguchi/blazorhosted/Shared/obj/Debug/netstandard2.0/blazorhosted.Shared.pdb
