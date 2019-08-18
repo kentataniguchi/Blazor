@@ -132,3 +132,5 @@
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/blazor/linker/blazorhosted.Shared.pdb
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/blazor/inputs.bootjson.cache
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/blazor/blazor.boot.json
+/Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/RazorDeclaration/Pages/Index1.razor.g.cs
+/Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/Razor/Pages/Index1.razor.g.cs
