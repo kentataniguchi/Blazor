@@ -134,3 +134,5 @@
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/blazor/blazor.boot.json
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/RazorDeclaration/Pages/Index1.razor.g.cs
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/Razor/Pages/Index1.razor.g.cs
+/Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/RazorDeclaration/Pages/Index2.razor.g.cs
+/Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/Razor/Pages/Index2.razor.g.cs
