@@ -1,7 +1,26 @@
 ﻿@page "/"
+@using Microsoft.AspNetCore.Components
+@inject IUriHelper UriHelper
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
 
 <SurveyPrompt Title="How is Blazor working for you?" />
+
+<p>現在時刻が0秒～29秒なら/Counterに飛びます。</p>
+<p>現在時刻が30秒～59秒なら/FetchDataに飛びます。</p>
+<button class="btn　btnprimary"@onclick="@Jump">Click　to　jump　another　Page</button>
+
+@code{
+    void Jump(){
+        var　sec　=　DateTimeOffset.Now.Second;
+        if(sec >= 0 && sec <= 29){
+            UriHelper.NavigateTo("/Counter");
+        }
+        else{
+            UriHelper.NavigateTo("/FetchData");
+        }
+    }
+}
+
