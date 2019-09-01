@@ -1,0 +1,18 @@
+<span style="font-size:@cookedSize">
+@ChildContent
+</span>
+@code{
+    /*
+    *自作コンポーネント
+    */
+
+    private string cookedSize{get => Size + "em";}
+
+    // Parameter属性がついたプロパティは外部から値を受け取るパラメーターとして機能する
+    [Parameter]
+    private string Size{get;set;}
+
+    [Parameter]
+    private RenderFragment ChildContent{get;set;}
+
+}

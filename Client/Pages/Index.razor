@@ -12,6 +12,13 @@ Welcome to your new app.
 <p>現在時刻が30秒～59秒なら/FetchDataに飛びます。</p>
 <button class="btn　btnprimary"@onclick="@Jump">Click　to　jump　another　Page</button>
 
+<div>
+    <ScaleText Size="1">小</ScaleText>
+    <ScaleText Size="2">中</ScaleText>
+    <ScaleText Size="3">大</ScaleText>
+    <ScaleText Size="4">特大</ScaleText>
+</div>
+
 @code{
     void Jump(){
         var　sec　=　DateTimeOffset.Now.Second;
