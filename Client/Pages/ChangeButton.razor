@@ -1,0 +1,32 @@
+@page "/changebutton"
+
+@if(modeSwich)
+{
+    <p>Mode is ON!</p>
+}
+else
+{
+    <p>Mode is OFF</p>
+}
+@switch(modeSwich)
+{
+    case false:
+    <p>Mode is OFF</p>
+    break;
+
+    case true:
+    <p>Mode is ON!</p>
+    break;
+}
+<button class="btn btn-primary" @onclick="@modeChange">
+    ChangeMode
+</button>
+
+@code
+{
+    bool modeSwich = false;
+    void modeChange()
+    {
+        modeSwich = !modeSwich;
+    }
+}
