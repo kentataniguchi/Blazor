@@ -138,3 +138,5 @@
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/Razor/Pages/Index2.razor.g.cs
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/RazorDeclaration/Shared/ScaleText.razor.g.cs
 /Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/Razor/Shared/ScaleText.razor.g.cs
+/Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/RazorDeclaration/Pages/ChangeButton.razor.g.cs
+/Users/taniguchi/blazorhosted/Client/obj/Debug/netstandard2.0/Razor/Pages/ChangeButton.razor.g.cs
