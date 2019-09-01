@@ -18,8 +18,21 @@ Welcome to your new app.
     <ScaleText Size="3">大</ScaleText>
     <ScaleText Size="4">特大</ScaleText>
 </div>
+<div>
+    <input type="checkbox" @bind="@mySwich" />
+    <input type="text" @bind="@myText" />
+    <input @bind="@myDate" @bind:format="yyyy-MM-dd" />
+    <p>@mySwich</p>
+    <p>@myText</p>
+    <p>日付：@myDate</p>
+</div>
 
 @code{
+    private bool mySwich = false;
+    private string myText = "REWRITE ME";
+    [Parameter]
+    private DateTime myDate{get;set;} = new DateTime(2020,1,1);
+
     void Jump(){
         var　sec　=　DateTimeOffset.Now.Second;
         if(sec >= 0 && sec <= 29){
