@@ -9,7 +9,13 @@
         <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
     </div>
 
+    <CascadingValue Value="@siteName" Name="siteName">
     <div class="content px-4">
         @Body
     </div>
+    </CascadingValue>
 </div>
+
+@code{
+    string siteName = "sample blazor siteです";
+}
