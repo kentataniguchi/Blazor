@@ -6,3 +6,11 @@
 /Users/taniguchi/blazorhosted/Shared/obj/Debug/netstandard2.0/blazorhosted.Shared.AssemblyInfo.cs
 /Users/taniguchi/blazorhosted/Shared/obj/Debug/netstandard2.0/blazorhosted.Shared.dll
 /Users/taniguchi/blazorhosted/Shared/obj/Debug/netstandard2.0/blazorhosted.Shared.pdb
+C:\Users\taniguchi\source\repos\githubblazor\Blazor\Shared\bin\Debug\netstandard2.0\blazorhosted.Shared.deps.json
+C:\Users\taniguchi\source\repos\githubblazor\Blazor\Shared\bin\Debug\netstandard2.0\blazorhosted.Shared.dll
+C:\Users\taniguchi\source\repos\githubblazor\Blazor\Shared\bin\Debug\netstandard2.0\blazorhosted.Shared.pdb
+C:\Users\taniguchi\source\repos\githubblazor\Blazor\Shared\obj\Debug\netstandard2.0\blazorhosted.Shared.csprojAssemblyReference.cache
+C:\Users\taniguchi\source\repos\githubblazor\Blazor\Shared\obj\Debug\netstandard2.0\blazorhosted.Shared.AssemblyInfoInputs.cache
+C:\Users\taniguchi\source\repos\githubblazor\Blazor\Shared\obj\Debug\netstandard2.0\blazorhosted.Shared.AssemblyInfo.cs
+C:\Users\taniguchi\source\repos\githubblazor\Blazor\Shared\obj\Debug\netstandard2.0\blazorhosted.Shared.dll
+C:\Users\taniguchi\source\repos\githubblazor\Blazor\Shared\obj\Debug\netstandard2.0\blazorhosted.Shared.pdb

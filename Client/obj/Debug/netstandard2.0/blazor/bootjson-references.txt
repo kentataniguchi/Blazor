@@ -26,3 +26,5 @@ System.Runtime.CompilerServices.Unsafe.dll
 System.Text.Encodings.Web.dll
 System.Text.Json.dll
 System.Threading.Tasks.Extensions.dll
+blazorhosted.Client.pdb
+blazorhosted.Shared.pdb
